@@ -506,7 +506,7 @@
 |              [Stock Sentiment](https://api.adanos.org/docs)              | Reddit & X/Twitter sentiment analysis for stocks with buzz scores    | `apiKey` |  Yes  |   Yes   |
 | [The Gold Barometer](https://thegoldbarometer.com/data/) | Daily gold buying-conditions score, 0-100, with open history back to 1971 | No | Yes | Yes |
 |                 [Tradier](https://developer.tradier.com)                 | US equity/option market data (delayed, intraday, historical)  | `OAuth`  |  Yes  |   Yes   |
-| [Undertow](https://liquilens-undertow.com/developers/) | Public market-depth and sized exit estimates, not executable quotes | No | Yes | Yes |
+| [Undertow](https://api.seiche.info/undertow) | Public market-depth and sized exit estimates, not executable quotes | No | Yes | Yes |
 |                 [ValueRay](https://www.valueray.com/api)                 | Quantitative and sentiment data for stocks and ETFs           |    No     | Yes  |   Yes   |
 |         [World Trading Data](https://www.worldtradingdata.com/)          | Market data provider                                          | `apiKey` |  Yes  | Unknown |
 |                 [YNAB](https://api.youneedabudget.com/)                  | Budgeting & Planning                                          | `OAuth`  |  Yes  |   Yes   |
